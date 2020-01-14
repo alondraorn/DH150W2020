@@ -6,6 +6,9 @@ With this UX design analysis, I'd like to contribute to the vast community of dr
 
 ![ParkMobile Logo](/pmlogo.png)
 
+<center><img src="pmlogo.png" width="500" height="400"></center>
+
+
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="https://images.app.goo.gl/g2BNKpe2bThfmrWG8">
 </p>
