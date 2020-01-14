@@ -16,7 +16,7 @@ With this UX design analysis, I'd like to contribute to the vast community of dr
 
 :white_check_mark: Overall, the ParkMobile mobile application is relatively user-friendly in terms of intuitiveness and practicality of use. In the past, there have been some usability issues and glitches, and the application can be improved upon now as well, but it is clear that the ParkMobile team has been working to make the UX of their application simple and accessible in order to attract and retain users. With 660K reviews in the iOS App Store, ParkMobile has a 4.7 star rating and ranks #6 on the “Navigation” chart, indicating general user satisfaction with the application. I believe that the next step for ParkMobile is to build out some additional capabilities for their ParkMobile Pro premium subscription, as well as make some simplifying UX / UI edits.
 
-## 10 Usability Heuristics and Severity Ratings
+# 10 Usability Heuristics and Severity Ratings
 **1. Visibility of system status (1)**
 >Upon opening the mobile application, the user immediately sees their own location when on the “Park” screen, signified by the standard light blue circle surrounded by a pulsating, lighter blue outline. When they are located near or in a parking zone, the parking zone number appears in a rectangle at the top of the screen. When the user sees both of these elements (own location and suggestions for parking zones), this indicates that the system is functioning properly and the user is able to use it correctly, thus satisfying the first heuristic of visibility of system status.
 
