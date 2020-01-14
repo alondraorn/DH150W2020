@@ -18,6 +18,9 @@ With this UX design analysis, I'd like to contribute to the vast community of dr
 
 # 10 Usability Heuristics and Severity Ratings
 **1. Visibility of system status (1)**
+<p align="center">
+  <img width="200" height="500" src="firstscreen.png">
+</p>
 >Upon opening the mobile application, the user immediately sees their own location when on the “Park” screen, signified by the standard light blue circle surrounded by a pulsating, lighter blue outline. When they are located near or in a parking zone, the parking zone number appears in a rectangle at the top of the screen. When the user sees both of these elements (own location and suggestions for parking zones), this indicates that the system is functioning properly and the user is able to use it correctly, thus satisfying the first heuristic of visibility of system status.
 
 **2. Match between system and real world (1)** 
