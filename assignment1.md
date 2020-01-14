@@ -18,10 +18,10 @@ With this UX design analysis, I'd like to contribute to the vast community of dr
 
 # 10 Usability Heuristics and Severity Ratings
 **1. Visibility of system status (1)**
-<p align="center">
-  <img width="200" height="500" src="firstscreen.png">
-</p>
 >Upon opening the mobile application, the user immediately sees their own location when on the “Park” screen, signified by the standard light blue circle surrounded by a pulsating, lighter blue outline. When they are located near or in a parking zone, the parking zone number appears in a rectangle at the top of the screen. When the user sees both of these elements (own location and suggestions for parking zones), this indicates that the system is functioning properly and the user is able to use it correctly, thus satisfying the first heuristic of visibility of system status.
+<p align="center">
+  <img width="200" height="500" src="firstscreen.PNG">
+</p>
 
 **2. Match between system and real world (1)** 
 >Within the mobile application, the user sees a map that they should be quite familiar with, as it is similar to the standard mobile map applications (Google Maps, Apple Maps, etc.) that many people use. The map has two icons, two flat stacked squares indicating the ability to change map layers, as well as an arrow in a box, indicating the ability to return the map orientation to the user’s current location. At the top of the main screen, there is a rectangular box with the text “Enter Zone Number” — however, for users who are not familiar with the application, “zone number” is not easily understandable unless they know that each parking zone has an affiliated number. Additionally, it may not be fully clear that the box is “searchable” without the inclusion of the magnifying glass symbol used to indicate searchability. Finally, it is not immediately clear that clicking on the small QR Code symbol in the box will result in the use of the camera to scan a code, though once a user discovers this function, it is quite intuitive. This issue simply arises because new users are not aware that parking zones can be identified with QR codes, or where these codes are located.
