@@ -1,4 +1,3 @@
-https://tasiamochernak.github.io/DH150W2020/
 # DH150 Assignment 2: Usability Testing
 
 ### _by Tasia Mochernak // Digital Humanities 150 at UCLA, Winter 2020 // Dr. Sookie Cho // 1.21.2020_
@@ -42,8 +41,6 @@ Find the usability test materials [here](https://forms.gle/k9XgnefrKoiYHJW97)!
 
 ## :sparkle: Pilot Usability Test Video
 View and/or download the ParkMobile usability test pilot video [here](https://drive.google.com/file/d/12I5Oj3TOP9QuMMn9MKAv4pSEUOB4o-Tb/view?usp=sharing)!
-
-<iframe src="https://drive.google.com/file/d/12I5Oj3TOP9QuMMn9MKAv4pSEUOB4o-Tb/preview" width="640" height="480"></iframe>
 
 ## :sparkle: Reflection
  **What I learned during the pilot test**
