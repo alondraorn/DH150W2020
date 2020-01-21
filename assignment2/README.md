@@ -1,3 +1,4 @@
+https://tasiamochernak.github.io/DH150W2020/
 # DH150 Assignment 2: Usability Testing
 
 ### _by Tasia Mochernak // Digital Humanities 150 at UCLA, Winter 2020 // Dr. Sookie Cho // 1.21.2020_
