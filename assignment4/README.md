@@ -13,7 +13,7 @@
 **What is the basic need involved for that activity?**
 >This activity fulfills the user’s basic need for safety because they feel that they are parking in a proper location and they can find out additional information about this location pertaining to safety as well. They feel that they are not having a difficult driving or parking experience.
 
-**What is(are) the traditional/current solution(s) to satisfy the needs?**
+**What is/are the traditional/current solution(s) to satisfy the needs?**
 >Current solutions to satisfy this need for knowing where to park include other applications, which are popular, but from personal observation, do not seem to be very commonly used among my target demographic. For large events or specific venues, there is usually information provided on websites for associated parking. Additionally, people often search for parking in the moment, and they also might look up “parking nearby” when using navigational tools like Google Maps or Apple Maps.
 
 **What is/are the limitation(s) that possibly would be improved with (digital) technology?**
