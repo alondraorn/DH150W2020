@@ -44,6 +44,8 @@
     * The ParkMobile application is helpful in places where you have not been before, if you are a regular user of ParkMobile. For example, I was parking at UCSD and the physical signage at the parking lot was quite confusing (spaces marked A, B and V), but the ParkMobile application told me that paying would only be valid for stalls marked with the letter V for visitor. Other individuals who only observed the physical signage did not receive this insight and may have gotten ticketed.
 * I conducted **participatory observation research** with a friend who fits my target demographic details. Please find the materials used in the next section. 
 
+
+
 ## Participatory Research Materials
 
 **1. Contextual Inquiry Guide**
@@ -70,3 +72,8 @@ The **transcription** of the interview can be found [here](https://docs.google.c
 **:four: The user's ranking of the importance of parking (on a scale of 1-10) as a component of an entire trip (17:40)**
 >Okay, so, back to one of your other questions about what if it's important, or how important it is or like, how much will I suffer. Even if the parking is difficult, like, if I'm going somewhere for the first time, fine, I'll suffer through but then the next time it is now a factor I know that it's going to be difficult. So that is becomes a bigger portion of my number — I may turn into like a six or seven. So I think it depends on destination or whether and I've been there, but also I could be willing to give it another shot.
 
+
+
+## Reflection
+
+xxx
