@@ -5,12 +5,12 @@
 
 ## Accessibility Testing
 
-<p align="center">
-  <img width="430" height="330" src="xx">
+<p align="right">
+  <img width="430" height="330" src="Colors Accessibility Test.png">
 </p>
 
-<p align="center">
-  <img width="430" height="330" src="xx">
+<p align="right">
+  <img width="500" height="400" src="ParkMobile Website Accessibility.png">
 </p>
 
 Please find the published assignment 7 [here](https://tasiamochernak.github.io/DH150W2020/assignment7-colors.html).
