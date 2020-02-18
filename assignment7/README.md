@@ -5,12 +5,15 @@
 
 ## Accessibility Testing
 
+### Test of ParkMobile Website
 <p align="left">
-  <src="Colors Accessibility Test.png">
+  <img width="600" height="350" src="ParkMobile Website Accessibility.png">
 </p>
 
+### Test of Three Variations of Interface Accessibility Design Assignment
 <p align="left">
-  <src="ParkMobile Website Accessibility.png">
+  <img width="600" height="350" src="Colors Accessibility Test.png">
 </p>
 
-Please find the published assignment 7 [here](https://tasiamochernak.github.io/DH150W2020/assignment7-colors.html).
+
+:white_check_mark: Please find the published Assignment 7 website [here](https://tasiamochernak.github.io/DH150W2020/assignment7-colors.html).
