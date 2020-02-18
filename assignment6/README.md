@@ -13,8 +13,23 @@
 
 More information about user personas and task scenarios can be found [here](https://docs.google.com/presentation/d/11dz4WrX4rDA3PaPw3xPM0CvFOS7pzUTsdDXwr7nQLl4/edit?usp=sharing).
 
-## Wireframes
+## Wireframes & Wireflows
 
-5 basic wireframes from this prototype are available to download in PDF form [here](.
+5 basic wireframes from this prototype are available to download in PDF form [here](https://drive.google.com/file/d/1dgxJxHLlqSpeau1Mgt2NmtKaLJ491fEM/view?usp=sharing).
 
 All wireframes and wireflows can be found [here](https://docs.google.com/presentation/d/1BiwPBoQVrLznBH7h3skdUHdgDHVBF0VkMs-a9-DKQRk/edit?usp=sharing).
+
+### Notes on Wireflow Test
+
+**Task 1: Seeing the price/hour of parking prior to clicking into parking “zone”**
+>I noticed that the user was a bit confused in the beginning when asked (what I thought to be) the most simple task, to choose a parking area based on the price/particular amount of time provided. That led me to believe that maybe it is counterintuitive to provide the user with as much information as possible since that might make it more difficult to quickly make a decision. As seen in the second screen of this task, a more personalized experience might make the experience of the user more efficient. 
+
+**Task 2: Receiving recommendations on places to visit**
+>I noticed that the user chose to click on very specific words within the “notifications” like “Learn more…” and “here”. Otherwise, this task seemed to be quite self-explanatory and the user completed all components quite quickly.
+
+**Task 3: Integrating with Google Maps**
+>There was some confusion moving between two “interfaces” — the fact that it started at Google Maps (familiar interface) was not made clear by me. It was interesting that the user clicked on P for ParkMobile in the design, rather than the price or time frame, which is a good insight for demonstrating that user is attracted to the logo when it is in a different application interface.
+
+The user successfully completed all components of all of the tasks in this low-fidelity prototype test. 
+
+## Summary
