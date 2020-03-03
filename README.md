@@ -13,6 +13,10 @@ Summary and link to the heuristics and usability testing of the *existing* produ
 
 xx insert images of competitors xx
 
+website1 | website2
+---------|----------
+![ParkMobile](https://github.com/tasiamochernak/DH150W2020/raw/master/pmlogo.png) | ![Screenshot](https://github.com/tasiamochernak/DH150W2020/raw/master/ParkMobile/firstscreen.PNG)
+
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
 
