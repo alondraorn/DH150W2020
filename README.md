@@ -2,9 +2,9 @@
 ## Tasia Mochernak, DH150 UX/UI Design, UCLA
 
 ## About the Project
-xxx
+This project analyzes the UX/UI design of ParkMobile, a parking solution application. The basis of this project is finding an app or website related to a particular community and discovering ways of improving upon the product in order to benefit the selected community. As a UCLA student, I actively use ParkMobile to park on campus and have found the application quite beneficial to myself. However, with this project, I wanted to find ways to make ParkMobile useful not only in select locations like college campuses, but more broadly to a larger population of drivers. 
 
-## Design Statement: 
+## Design Statement
 With this UX design analysis, I'd like to contribute to the vast community of drivers in Los Angeles, whether locals or tourists, with the desire to make driving and parking in LA less stressful, more accessible, and safer for those who dislike this method of experiencing the city. I'd also like to help more people find affordable parking options across the city and visit places they might otherwise not have explored. Although ParkMobile is available throughout the United States in over 350 cities, I am focusing on Los Angeles because of the well-known dislike toward traffic, transportation, and travel within this city — I have lived here for 3 years and do not mind it as much as others, and I believe that ParkMobile has played a role in this. As a result, I’d like to ensure that other drivers in Los Angeles are also able to make use of ParkMobile so that they may have the peace of mind, when traveling through the city, that they can ultimately rely on ParkMobile to help them with their parking needs, and hopefully, make all Angelenos’ driving experiences a bit better.
 
 ## Competitor analysis [assignment01 & 02]:
@@ -18,6 +18,10 @@ xx insert images of competitors xx
 website1 | website2
 ---------|----------
 ![ParkMobile](https://github.com/tasiamochernak/DH150W2020/raw/master/pmlogo.png) | ![Screenshot](https://github.com/tasiamochernak/DH150W2020/raw/master/ParkMobile/firstscreen.PNG)
+
+<figure class="video_container">
+<iframe src="https://drive.google.com/file/d/12I5Oj3TOP9QuMMn9MKAv4pSEUOB4o-Tb/preview" width="640" height="480"></iframe>
+</figure>
 
 ## User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
@@ -36,11 +40,10 @@ Summary statement and link to or an embedded prototype
 ## Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
-## Pitch video 
-for link from YouTube:
+Figma has possibility of checking color contrast
 
-<figure class="video_container">
-<iframe src="https://drive.google.com/file/d/12I5Oj3TOP9QuMMn9MKAv4pSEUOB4o-Tb/preview" width="640" height="480"></iframe>
-</figure>
+## Pitch video 
+
+
 
 ## Conclusion: what did you learn throughout the process?
