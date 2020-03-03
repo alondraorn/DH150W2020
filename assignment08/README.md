@@ -23,3 +23,39 @@
 
 **Task 3: Integrating with Google Maps**
 >This task spans 2 applications. Jake (the associated user persona) opens Google Maps on mobile and receives a reminder about his flight at LAX at 5 pm today. He either clicks the notification or the "Search" bar to put in his destination (LAX) in order to receive directions. Google Maps shows LAX and due to ParkMobile integration, also shows green ParkMobile logo on the screen indicating nearby PM locations. Jake selects a ParkMobile location as his destination instead and navigates to it. Once arrived, he receives a notification to “Pay in ParkMobile,” which takes him to the ParkMobile app and allows him to pay for parking. 
+
+More information on original user personas and task scenarios can be found [here](https://docs.google.com/presentation/d/11dz4WrX4rDA3PaPw3xPM0CvFOS7pzUTsdDXwr7nQLl4/edit?usp=sharing).
+
+## Wireframes
+
+**Paying for Parking in 2 Zones**
+<p align="left">
+  <img width="330" height="500" src="Paying for Parking in 2 Zones.png">
+</p>
+
+**Closing a Notification**
+<p align="left">
+  <img width="600" height="400" src="Closing a Notification.png">
+</p>
+
+**Getting Directions to LAX**
+<p align="left">
+  <img width="600" height="400" src="Getting Directions to LAX .png">
+</p>
+
+## Wireflows
+
+**Task 1**
+<p align="left">
+  <img width="400" height="600" src="Interaction 1 Wireflow.png">
+</p>
+
+**Task 2**
+<p align="left">
+  <img width="500" height="600" src="Interaction 2 Wireflow.png">
+</p>
+
+**Task 3**
+<p align="left">
+  <img width="600" height="400" src="Interaction 3 Wireflow.png">
+</p>
