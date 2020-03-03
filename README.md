@@ -11,6 +11,8 @@ With this UX design analysis, I'd like to contribute to the vast community of dr
 
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
+[Read more](https://github.com/tasiamochernak/DH150W2020/blob/master/assignment1.md)
+
 xx insert images of competitors xx
 
 website1 | website2
