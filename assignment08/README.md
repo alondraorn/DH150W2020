@@ -24,7 +24,7 @@
 **Task 3: Integrating with Google Maps**
 >This task spans 2 applications. Jake (the associated user persona) opens Google Maps on mobile and receives a reminder about his flight at LAX at 5 pm today. He either clicks the notification or the "Search" bar to put in his destination (LAX) in order to receive directions. Google Maps shows LAX and due to ParkMobile integration, also shows green ParkMobile logo on the screen indicating nearby PM locations. Jake selects a ParkMobile location as his destination instead and navigates to it. Once arrived, he receives a notification to “Pay in ParkMobile,” which takes him to the ParkMobile app and allows him to pay for parking. 
 
-More information on original user personas and task scenarios can be found [here](https://docs.google.com/presentation/d/11dz4WrX4rDA3PaPw3xPM0CvFOS7pzUTsdDXwr7nQLl4/edit?usp=sharing).
+More information on original user personas and task scenarios can be found [here](https://docs.google.com/presentation/d/11dz4WrX4rDA3PaPw3xPM0CvFOS7pzUTsdDXwr7nQLl4/edit?usp=sharing). The low-fidelity prototype version of this project can be found [here](https://docs.google.com/presentation/d/1BiwPBoQVrLznBH7h3skdUHdgDHVBF0VkMs-a9-DKQRk/edit?usp=sharing).
 
 ## Wireframes
 
@@ -42,6 +42,11 @@ More information on original user personas and task scenarios can be found [here
 <p align="left">
   <img width="600" height="400" src="Getting Directions to LAX .png">
 </p>
+
+### Graphical Interface Design Explanation
+The base of the interface of this prototype comes directly from the existing application, ParkMobile. As a result, I primarily built on the app's existing color scheme to choose the colors for the additional elements I added into the design. In the first two interactions, the colors I utilized were primarily green, white, and black. Because I also used screenshots of the Google Maps interface in the third interaction, another color I added was the blue color native to Google Maps. The elements I added into the existing interface in order to create this prototype include buttons, notifications, bubbles with the dollar amount for parking, and the ParkMobile logo. All of these added elements are mostly rounded in shape in order to best align with the existing elements in the ParkMobile and Google Maps interfaces.
+
+I did try to test my prototype for color accessibility, but because I was utilizing screenshots of ParkMobile and Google Maps, rather than completely re-designing the interface, the test was not applicable. However, because I primarily used the same colors as those already used in ParkMobile and Google Maps, I feel that the interface is likely to have a relatively high level of accessibility.
 
 ## Wireflows
 
@@ -67,3 +72,11 @@ More information on original user personas and task scenarios can be found [here
 * [Task 2 Prototype](https://www.figma.com/proto/Fg2RfJ8fe7vmDP34aUQK0Z/Interaction-2?node-id=1%3A2&scaling=scale-down)
 
 * [Task 3 Prototype](https://www.figma.com/proto/s64UzL7U2dSK0CuWdyOrxw/Interaction-3?node-id=1%3A2&scaling=scale-down)
+
+## Changes from Previous Iterations
+
+For Task 1, the interface logistics and design elements that I initially conceptualized remained essentially the same throughout the prototyping process. However, one change I made was removing the "maximum amount of time to park" in the bubbles that appear above each zone number, which I had included in my low-fidelity prototype. This way, the user is not overwhelmed with too much information and can make a decision based on the most important factor, price.
+
+Out of all three tasks, Task 2 was the one that was met with the most struggle from users I worked with to test the low-fidelity prototype. I realized that the logic I employed to move from the initial screen to the next by immediately showing the user available parking rather than informing them about the suggested destination did not make sense. As a result, with feedback from my classmate, I changed the wireflow to go from the initial screen to immediately showing information about the suggested venue, followed by directing the user to explore the available parking options. This way, the user also feels that ParkMobile is truly making a recommendation rather than just a money-grab.
+
+Task 3 was relatively self-explanatory and also remained approximately the same as the low-fidelity counterpart, though I added more detailed steps to the "navigating to a ParkMobile" location section of this interaction.
