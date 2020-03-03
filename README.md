@@ -43,6 +43,6 @@ for link from YouTube:
   <iframe src="https://drive.google.com/file/d/12I5Oj3TOP9QuMMn9MKAv4pSEUOB4o-Tb/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-
+[![THE-ALT-TEXT]([![THE-ALT-TEXT](http://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO-ID "ALT-TEXT")]
 
 ## Conclusion: what did you learn throughout the process?
