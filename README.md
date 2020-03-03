@@ -40,7 +40,7 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 for link from YouTube:
 
 <figure class="video_container">
-  <iframe src="https://drive.google.com/drive/u/1/folders/1n3uinlnDGTlFOkJSHvymf9DmRgKbqvvG" frameborder="0" allowfullscreen="true"> </iframe>
+<iframe src="https://drive.google.com/file/d/12I5Oj3TOP9QuMMn9MKAv4pSEUOB4o-Tb/preview" width="640" height="480"></iframe>
 </figure>
 
 ## Conclusion: what did you learn throughout the process?
