@@ -59,3 +59,11 @@ More information on original user personas and task scenarios can be found [here
 <p align="left">
   <img width="600" height="400" src="Interaction 3 Wireflow.png">
 </p>
+
+## Interactive Prototype
+
+* [Task 1 Prototype](https://www.figma.com/proto/cS0luA6QUbMQqn4F48rpfN/Interaction-1?node-id=1%3A26&scaling=scale-down)
+
+* [Task 2 Prototype](https://www.figma.com/proto/Fg2RfJ8fe7vmDP34aUQK0Z/Interaction-2?node-id=1%3A2&scaling=scale-down)
+
+* [Task 3 Prototype](https://www.figma.com/proto/s64UzL7U2dSK0CuWdyOrxw/Interaction-3?node-id=1%3A2&scaling=scale-down)
