@@ -79,4 +79,4 @@ Out of all three tasks, Task 2 was the one that was met with the most struggles 
 
 Task 3 was relatively self-explanatory and also remained approximately the same as the low-fidelity counterpart, though I added more detailed steps to the "navigating to a ParkMobile" location section of this interaction.
 
-More information on original user personas and task scenarios can be found [here](https://docs.google.com/presentation/d/11dz4WrX4rDA3PaPw3xPM0CvFOS7pzUTsdDXwr7nQLl4/edit?usp=sharing). The low-fidelity prototype version of this project can be found [here](https://docs.google.com/presentation/d/1BiwPBoQVrLznBH7h3skdUHdgDHVBF0VkMs-a9-DKQRk/edit?usp=sharing).
+:white_check_mark: _More information on original user personas and task scenarios can be found [here](https://docs.google.com/presentation/d/11dz4WrX4rDA3PaPw3xPM0CvFOS7pzUTsdDXwr7nQLl4/edit?usp=sharing). The low-fidelity prototype version of this project can be found [here](https://docs.google.com/presentation/d/1BiwPBoQVrLznBH7h3skdUHdgDHVBF0VkMs-a9-DKQRk/edit?usp=sharing)._
