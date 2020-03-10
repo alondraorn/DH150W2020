@@ -36,6 +36,7 @@ The entire contextual inquiry project can be found [here](https://github.com/tas
 <iframe src="https://drive.google.com/file/d/12I5Oj3TOP9QuMMn9MKAv4pSEUOB4o-Tb/preview" width="640" height="480"></iframe>
 </figure>
 
+
 This portion of the design project aimed to collect and understand users' thoughts regarding the app and the "parking world" in general in a more freeform manner, though still guided by me via a script and specific questions. I enjoyed asking more contextual questions about the users' painpoints with current parking processes and desires to improve certain aspects.
 
 ## UX storytelling [persona+scenario, assignment05]
