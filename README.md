@@ -39,8 +39,10 @@ The entire contextual inquiry project can be found [here](https://github.com/tas
 
 This portion of the design project aimed to collect and understand users' thoughts regarding the app and the "parking world" in general in a more freeform manner, though still guided by me via a script and specific questions. I enjoyed asking more contextual questions about the users' painpoints with current parking processes and desires to improve certain aspects.
 
-## UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+## UX Storytelling
+In this step of the UX/UI design process, I worked on the personas and scenarios I wanted to target with my redesign of the application. I chose 3 user personas based on people who I thought to be relatively young and drivers in the Los Angeles area. Next, I identified an issue that each of the personas might face and created a scenario in which ParkMobile would help them fix their issue. 
+
+[Personas & Scenarios](https://docs.google.com/presentation/d/11dz4WrX4rDA3PaPw3xPM0CvFOS7pzUTsdDXwr7nQLl4/edit?usp=sharing)
 
 ## Wireframe and graphic design element variation [assignment07 + part of 08]
 
