@@ -108,7 +108,10 @@ For both of them, I increased the color contrast and turned the buttons and noti
 >* AAA compliant: 4.5:1
 
 ## Pitch Video 
-(It is still taking some time to upload, my apologies).
+
+<figure class="video_container">
+<iframe src="https://drive.google.com/file/d/1S_dW755Rndb66zhFQVVPvdmzaInrnhWu/preview" width="640" height="480"></iframe>
+</figure>
 
 ## Conclusion
 I really enjoyed and learned a lot from this UX/UI Design course. I came in with "product" knowledge, having heard of user research, certain types of shadow research methods, etc. but not really any hands-on product design experience. To me, the most interesting components of this project were definitely conducting user research like usability testing, contextual inquiry, and low-fidelity prototype testing because to me, the application is much more about the user experience than its technical capabilities. I definitely learned to keep an open mind during the research process and to incorporate edits into my work, especially when suggestions came from people with much more UX/UI experience than I have. I also learned that it's actually good to test out technical tools and not do things by hand (* ahem * low-fidelity prototype) and enjoyed my time using Figma. Overall, I'd like to encourage others to take this course and to say thank you to Prof. Cho for making it engaging and manageable for people without a design background!
