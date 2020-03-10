@@ -44,7 +44,28 @@ In this step of the UX/UI design process, I worked on the personas and scenarios
 
 [Personas & Scenarios](https://docs.google.com/presentation/d/11dz4WrX4rDA3PaPw3xPM0CvFOS7pzUTsdDXwr7nQLl4/edit?usp=sharing)
 
-## Wireframe and graphic design element variation [assignment07 + part of 08]
+## Wireframe and Graphic Design Element Variation
+After ideating three scenarios, I proceeded to wireframe them by hand. Wireframing is the process of drawing out portions of an interface with buttons, search bars, and other tools depicted; when several wireframes are connected, that creates a wireflow. I also tested my hand-drawn wireframe with 2 users.
+
+[Initial Wireframe Overview PDF (Downloadable)](https://drive.google.com/file/d/1dgxJxHLlqSpeau1Mgt2NmtKaLJ491fEM/view)
+
+Later on, while creating my high-fidelity prototype, I also recorded the wireframing process which represent components of the larger wireflow. 
+
+**Paying for Parking in 2 Zones**
+<p align="left">
+  <img width="330" height="500" src="assignment08/Paying for Parking in 2 Zones.png">
+</p>
+
+**Closing a Notification**
+<p align="left">
+  <img width="600" height="400" src="assignment08/Closing a Notification.png">
+</p>
+
+**Getting Directions to LAX**
+<p align="left">
+  <img width="600" height="400" src="assignment08/Getting Directions to LAX .png">
+</p>
+
 
 ## Low-fidelity prototype (wireflow, assignment07)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
