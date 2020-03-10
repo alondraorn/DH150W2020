@@ -33,7 +33,7 @@ The next step was to conduct user research via contextual inquiry. The two obser
 The entire contextual inquiry project can be found [here](https://github.com/tasiamochernak/DH150W2020/tree/master/assignment4). The participatory observation video is embedded below.
 
 <figure class="video_container">
-<iframe src="https://drive.google.com/file/d/12I5Oj3TOP9QuMMn9MKAv4pSEUOB4o-Tb/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1XywoY38WOYZZt3z06I9ryTEVZK_Zgyo9/preview" width="640" height="480"></iframe>
 </figure>
 
 
