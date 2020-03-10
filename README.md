@@ -12,10 +12,10 @@ Early on in this project, I chose to exclusively analyze [ParkMobile](https://pa
 
 ![Screenshot of ParkMobile Website](https://github.com/tasiamochernak/DH150W2020/raw/master/parkmobilewebsite.png)
 
-**1** The first step in the design process was to conduct an heuristic evaluation, which can be found [here](https://github.com/tasiamochernak/DH150W2020/blob/master/assignment1.md). 
+**(1)** The first step in the design process was to conduct an heuristic evaluation, which can be found [here](https://github.com/tasiamochernak/DH150W2020/blob/master/assignment1.md). 
 * An heuristic evaluation is a method of identifying usability issues in a particular product, website, or software based on its compliance to existing usability principles. There are 10 heuristics and each can be categorized by a severity ranking to illustrate which issues should be prioritized over others. 
 
-**2** After finalizing ParkMobile as my app of choice post-heuristic evaluation, I conducted a usability test with a user who fit my target demographic based on age and currently being a college student. The usability testing video is embedded below and additional materials can be found [here](https://github.com/tasiamochernak/DH150W2020/tree/master/assignment2).
+**(2)** After finalizing ParkMobile as my app of choice post-heuristic evaluation, I conducted a usability test with a user who fit my target demographic based on age and currently being a college student. The usability testing video is embedded below and additional materials can be found [here](https://github.com/tasiamochernak/DH150W2020/tree/master/assignment2).
 * Usability testing involves having a user test a system and provide feedback. The process of usability testing includes background questions, pre-test questions, three tasks, post-test questions, system usability scaling and product satisfaction questions, and demographic information. The test was conducted on my phone and screenrecorded using my laptop.
 
 <figure class="video_container">
@@ -25,8 +25,18 @@ Early on in this project, I chose to exclusively analyze [ParkMobile](https://pa
 
 This analytical portion of the process was quite interesting to me because I was able to learn the established frameworks that UX/UI designers follow when evaluating a product. Additionally, it was a new experience for me to conduct a usability test and work directly with a user to understand their thought processes while using ParkMobile and mobile apps in general. 
 
-## User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
+## User Research - Contextual Inquiry
+The next step was to conduct user research via contextual inquiry. The two observation methods I employed include participatory observation and ethnographic research. 
+* Ethnographic research simply involves observing how people in UCLA Parking Structure 2 seem to be paying for parking. 
+* I conducted participatory observation research with a friend who fits my target demographic details. 
+
+The entire contextual inquiry project can be found [here](https://github.com/tasiamochernak/DH150W2020/tree/master/assignment4). The participatory observation video is embedded below.
+
+<figure class="video_container">
+<iframe src="https://drive.google.com/file/d/12I5Oj3TOP9QuMMn9MKAv4pSEUOB4o-Tb/preview" width="640" height="480"></iframe>
+</figure>
+
+This portion of the design project aimed to collect and understand users' thoughts regarding the app and the "parking world" in general in a more freeform manner, though still guided by me via a script and specific questions. I enjoyed asking more contextual questions about the users' painpoints with current parking processes and desires to improve certain aspects.
 
 ## UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
