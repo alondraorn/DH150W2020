@@ -67,19 +67,45 @@ Later on, while creating my high-fidelity prototype, I also recorded the wirefra
 </p>
 
 
-## Low-fidelity prototype (wireflow, assignment07)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+## Low-Fidelity Prototype
+The purpose of creating and testing this low-fidelity prototype was to verify whether or not the features that I created were helpful for and usable by the target user demographic. 
 
-## High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
-
-## Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
-
-Figma has possibility of checking color contrast
-
-## Pitch video 
+[Low-Fidelity Prototype & Testing](https://docs.google.com/presentation/d/1BiwPBoQVrLznBH7h3skdUHdgDHVBF0VkMs-a9-DKQRk/edit?usp=sharing)
 
 
+## High-Fidelity Prototype
+The purpose of creating this high-fidelity prototype was to visualize the functional and UX/UI-related improvements I wanted to make to the ParkMobile application in a format that users could easily test.
 
-## Conclusion: what did you learn throughout the process?
+**Interactive Prototype**
+
+* [Task 1 Prototype](https://www.figma.com/proto/cS0luA6QUbMQqn4F48rpfN/Interaction-1?node-id=1%3A26&scaling=scale-down)
+
+* [Task 2 Prototype](https://www.figma.com/proto/Fg2RfJ8fe7vmDP34aUQK0Z/Interaction-2?node-id=1%3A2&scaling=scale-down)
+
+* [Task 3 Prototype](https://www.figma.com/proto/s64UzL7U2dSK0CuWdyOrxw/Interaction-3?node-id=1%3A2&scaling=scale-down)
+
+Complete information about the high-fidelity prototyping process can be found [here](https://github.com/tasiamochernak/DH150W2020/blob/master/assignment08/README.md).
+
+## Revision History 
+Throughout the research and designing process, I made various small changes here and there. All of these changes are documented at the ends of their respective sections — for example, the "High-Fidelity Prototype" section above, in the link with all information, has a description of how the wireflow for Task 2 changed significantly after I did a low-fidelity prototype test with one of my classmates. 
+
+After submitting my high-fidelity prototype, I went back and installed a plugin in Figma that would allow me to see where the colors I'd chosen were not fully compliant with accessibility standards. The plugin is called **A11y - Color Contrast Checker:**
+>This plugin checks the color contrast ratio of all visible text in a frame, and it provides feedback on whether it meets WCAG’s AA and/or AAA level compliance. It also provides color sliders that allow users to adjust the colors and understand how the corresponding contrast ratio changes in real-time.
+
+Using this plugin, I edited:
+* The "Find Parking" buttons on the "hollywoodpantages" screen in Interaction 2.
+* The Arrived notification on the "arrived" screen in Interaction 3. 
+For both of them, I increased the color contrast and turned the buttons and notification a much darker shade of green based on the following standards. While I was simply taking the standard ParkMobile green and using it for most of the design elements, it seems that for certain things like buttons or areas where the user must click, the color contrast should be extra pronounced.
+>Normal fonts (< 19px)
+>* AA compliant: 4.5:1
+>* AAA compliant: 7:1
+
+
+>Large fonts (19px+)
+>* AA compliant: 3:1
+>* AAA compliant: 4.5:1
+
+## Pitch Video 
+
+
+## Conclusion
